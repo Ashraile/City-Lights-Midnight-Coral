@@ -1,6 +1,7 @@
 # City-Lights-Midnight-Coral
 Custom IDE theme for Atom made for extensive nighttime coding without eye strain.
 
+###Instructions
 
 1. Open Atom -> File -> Settings -> Install
 
