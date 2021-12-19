@@ -1,5 +1,5 @@
 # City-Lights-Midnight-Coral
-Custom IDE theme for Atom made for extensive nighttime coding without eye strain. [Public Domain]
+Custom floral IDE theme for Atom.io, made for extensive nighttime coding without eye strain. [Public Domain]
 
 ### Instructions
 
