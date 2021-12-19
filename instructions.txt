@@ -9,7 +9,7 @@
    Under the "UI Theme" and "Syntax Theme" dropdowns, select "City Lights" for both.
    
 3. Once that is done, go to File -> Stylesheet
-   Copy and paste the styles.less file data from this repository over the default styles.less file.
+   Replace the default styles.less file with the one from this repository.
    
    
     
